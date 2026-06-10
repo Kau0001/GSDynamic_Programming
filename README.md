@@ -67,7 +67,7 @@ global-solution-2026-fund/
 
 ---
 
-# 📚 Descrição dos Módulos
+# Descrição dos Módulos
 
 ## data_structures.py
 
