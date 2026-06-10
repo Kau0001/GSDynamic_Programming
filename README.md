@@ -41,7 +41,7 @@ O sistema utiliza diferentes abordagens algorítmicas para comparação de desem
 
 ---
 
-# 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 global-solution-2026-fund/
